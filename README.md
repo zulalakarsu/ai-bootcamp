@@ -15,6 +15,8 @@ This project focuses on creating and experimenting with an AI chef assistant tha
 3. The third person critiques the recipe using a third AI chef personality.
 
 **Report**
-The final report includes a comparative analysis of prompts, responses, and insights on the AI chef’s behavior across personalities.
+- The experiment process
+- The system prompts used in each script
+- Comparative analysis of the different user prompts and their responses
 
 
